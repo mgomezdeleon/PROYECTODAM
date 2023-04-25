@@ -5,5 +5,4 @@ public class Hola {
 		System.out.println("Hola, soy Ceinmark");
 		
 	}
-
 }
